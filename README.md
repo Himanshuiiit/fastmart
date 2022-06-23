@@ -1,3 +1,9 @@
+## Assumptions to be made
+1. WebSite is a Mobile shopping
+2. User can enter their payment details in the checkout page
+3. At a time user can order only single unit of a product
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
